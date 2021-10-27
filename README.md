@@ -1,1 +1,1 @@
-# game-the-Life-on-JavaScript-functions
+# JS-game-the-life-2021-10-12
